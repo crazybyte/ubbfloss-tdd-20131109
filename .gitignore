@@ -4,4 +4,5 @@
 *.sublime-project
 *.sublime-workspace
 
-
+#Entire Netbean project
+/nbproject
